@@ -10,7 +10,7 @@
 - **`filter`**: Cria um novo array com todos os elementos que passam em um teste especificado.
 - **`Spread`**: Exapande os elementos de um array ou objeto.
 
-## Aqui vou dar exemplos de códigos do métodos abordados: :technologist:
+## Aqui vamos ver alguns exemplos de códigos do métodos abordados: :technologist:
 
 1. **`sort`**
 
